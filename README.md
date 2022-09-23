@@ -77,17 +77,21 @@ The p-value for Lot 3 is 0.04168 which is smaller than our significance level of
 
 Some metrics of the MechaCar that could be of interest to the user are cost, city or fuel efficiency, horse power, maintenance cost, engine type, or safety rating
 
-1. What metric or metrics are you going to test?
+## 1. What metric or metrics are you going to test?
+
 The metric I would test would be fuel efficiency before and after oil change.
 
-2. What is the null hypothesis or alternative hypothesis?
+## 2. What is the null hypothesis or alternative hypothesis?
+
 The null hypothesis is that the mean of the fuel efficiency will not change.
 The alternative hypothesis is that mean of the fuel efficiency  will change.
 
-3. What statistical test would you use to test the hypothesis? And why?
+## 3. What statistical test would you use to test the hypothesis? And why?
+
 The statistical test I would use is a two sample t-Test to compare the samples of the fuel efficiency before and after the oil change. This will help us see if there is a major staistical difference in the datasets.
 
-4. What data is needed to run the statistical test?
+## 4. What data is needed to run the statistical test?
+
 A random sample of about 50 for MechaCars and it's competitors with both of their fuel efficiency numbers before and afer an oil change.
 
 
